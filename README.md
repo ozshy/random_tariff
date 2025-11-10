@@ -2,10 +2,13 @@ Derive and R files for a paper titled: "Random Tariff Wars and Business Uncertai
 
 by Oz Shy
 
+------------------------------------------
+
 *** R-code for drawing Figure 1 and Figure 2 and some numerical simulations: random_tariff_2025_mm_dd.R ***
 
 Run the entire code first (don't forget to change the working directory).
 
+------------------------------------------
 
 *** Other files in the repository ***
 
