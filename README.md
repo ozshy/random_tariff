@@ -4,7 +4,7 @@ by Oz Shy
 
 ------------------------------------------
 
-*** R-code for drawing Figures 1, 2 and 3 and some numerical simulations: random_tariff_2025_mm_dd.R ***
+*** R-code for drawing Figures 1, 2, 3, and 4 and some numerical simulations: random_tariff_2025_mm_dd.R ***
 
 Run the entire code first (don't forget to change the working directory).
 
